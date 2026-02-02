@@ -200,7 +200,7 @@ nav {
 .header__image img {
   max-width: 400px;
   margin-inline: auto;
-  border-radius: 40%;
+  border-radius: 25rem;
 }
 
 .header__image::after {
@@ -500,3 +500,4 @@ nav {
   }
 
 }
+
